@@ -16,7 +16,20 @@ body {
 }
 
 .hero {
+    margin: 0 auto;
+    max-width: 130rem;
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
+.heading-primary {
+    font-size: 5.2rem;
+    font-weight: 700;
+    line-height: 1.05;
+    color: #333;
+}
+.hero-description {
 
+}
+.hero-img {
+    width: 100%;
+}
