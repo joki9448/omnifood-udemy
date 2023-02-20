@@ -50,7 +50,7 @@ body {
     padding: 1.6rem 3.2rem;
     border-radius: 9px;
     text-decoration: none;
-    transition: background-color 0.25s;
+    transition: background-color 0.3s;
 }
 
 .btn--full:link, 
@@ -62,6 +62,7 @@ body {
 .btn--full:active {
     background-color: #b8651b;
 }
+
 
 .btn--outline:link, 
 .btn--outline:visited {
@@ -77,4 +78,8 @@ body {
 
 .hero-img {
     width: 100%;
+}
+
+.margin-right-sm {
+    margin-right: 1.6rem;
 }
